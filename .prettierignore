@@ -1,0 +1,11 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+*.ignore.ts
+*.ignore.js
+dist
+src/public
